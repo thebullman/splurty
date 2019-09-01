@@ -29,6 +29,7 @@
   font-style: italic;
   padding-top: 26px;
 }
+
 .links {
   padding-top: 26px;
 }
@@ -37,6 +38,8 @@
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'source_code_proregular';
+    font-weight: bold;
 }
 
 header {
@@ -45,4 +48,14 @@ header {
 
 hr {
     clear:both;
+}
+
+h1 {
+    font-family: 'kaushan_scriptregular';
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
 }
