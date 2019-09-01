@@ -11,10 +11,13 @@
 
 }
 
+
+
+
 @font-face {
-    font-family: 'source_code_proregular';
-    src: url('sourcecodepro-regular-webfont.woff2') format('woff2'),
-         url('sourcecodepro-regular-webfont.woff') format('woff');
+    font-family: 'source_code_promedium';
+    src: font_url('sourcecodepro-medium-webfont.woff2') format('woff2'),
+         font_url('sourcecodepro-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
